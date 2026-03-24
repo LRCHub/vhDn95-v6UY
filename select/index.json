@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "How To Hold An Angel",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-24T06:54:23.765601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How To Hold An Angel",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/01_How_To_Hold_An_Angel_LANY.lrc"
+    }
+  ]
+}
